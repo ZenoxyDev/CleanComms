@@ -26,6 +26,10 @@
 
 If you want to contribute to this project, dont steal this project :)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Author
 
 - **Zenox Development**
