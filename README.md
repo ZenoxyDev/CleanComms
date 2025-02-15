@@ -20,17 +20,11 @@
 ## Usage
 
 1. Open any file in Visual Studio Code.
-2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS) to open the command palette.
-3. Type `Remove Comments` and select the command.
-4. All comments will be removed from the active file.
+2. Press the 'Remove Comments' button in Status Bar.
 
 ## Contributing
 
-If you want to contribute to this project, feel free to fork the repository and submit a pull request. Please ensure to follow the coding standards and provide meaningful commit messages.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+If you want to contribute to this project, dont steal this project :)
 
 ## Author
 
@@ -39,4 +33,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to Visual Studio Code for providing an excellent platform for extensions.
-- Thanks to the open-source community for their continuous support and contributions.
