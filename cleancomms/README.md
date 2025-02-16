@@ -1,65 +1,39 @@
-# cleancomms README
+# CleanComms
 
-This is the README for your extension "cleancomms". After writing up a brief description, we recommend including the following sections.
+**CleanComms** is a simple Visual Studio Code extension that allows you to remove all comments from the currently active file with a single click. This is especially useful for cleaning up files by quickly removing unnecessary comments without manually searching through the code.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- Removes all single-line comments (`// comment`).
+- Removes all multi-line comments (`/* comment */`).
+- Works on any currently open file in VS Code.
+- One-click operation triggered by a command.
 
-For example if there is an image subfolder under your extension project workspace:
+## Installation
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Clone the repository or download the `.vsix` package.
+2. Open Visual Studio Code.
+3. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+4. Search for **CleanComms** or install it from the `.vsix` file.
+5. Reload or restart VS Code.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Usage
 
-## Requirements
+1. Open any file in Visual Studio Code.
+2. Press the 'Remove Comments' button in Status Bar.
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Contributing
 
-## Extension Settings
+If you want to contribute to this project, dont steal this project :)
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## License
 
-For example:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This extension contributes the following settings:
+## Author
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+- **Zenox Development**
 
-## Known Issues
+## Acknowledgments
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- Thanks to Visual Studio Code for providing an excellent platform for extensions.
