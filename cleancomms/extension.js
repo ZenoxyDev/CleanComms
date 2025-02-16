@@ -31,7 +31,7 @@ function activate(context) {
             editBuilder.replace(fullRange, newText);
         }).then(success => {
             if (success) {
-                vscode.window.showInformationMessage('Tüm yorum satırları silindi!');
+                vscode.window.showInformationMessage('All comment lines deleted!');
             } else {
                 vscode.window.showErrorMessage('Yorumlar silinemedi.');
             }
