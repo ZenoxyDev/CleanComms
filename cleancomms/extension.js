@@ -4,7 +4,7 @@ function activate(context) {
     console.log('Eklenti etkinleştirildi!');
 
     const removeButton = vscode.window.createStatusBarItem(vscode.StatusBarAlignment.Left, 100);
-    removeButton.text = 'Remove Comments';
+    removeButton.text = 'Clean Comments';
     removeButton.command = 'cleancomms.removeComments';
     removeButton.show();
 
