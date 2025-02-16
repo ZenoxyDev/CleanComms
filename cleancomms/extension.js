@@ -17,9 +17,9 @@ function activate(context) {
         }
 
         const document = editor.document;
-        const fullText = document.getText();
+        const fullText = document.getText(); 
         
-        const commentRegex = /(\/\/.*$|\/\*[\s\S]*?\*\/)/gm;
+        const commentRegex = /(\/\/.*$|\/\*[\s\S]*?\*\/)/gm; 
 
         const newText = fullText.replace(commentRegex, '');
         const fullRange = new vscode.Range(
