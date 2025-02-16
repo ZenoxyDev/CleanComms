@@ -6,7 +6,8 @@
   "version": "0.0.1",
   "repository": {
   "type": "git",
-  "url": "https://github.com/ZenoxyDev/cleancomms"
+  "url": "https://github.com/ZenoxyDev/cleancomms",
+  "icon": "./images/cleancomms.png"
   },
   "engines": {
     "vscode": "^1.97.0"
