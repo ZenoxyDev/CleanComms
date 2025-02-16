@@ -23,7 +23,7 @@
     "commands": [
       {
         "command": "cleancomms.removeComments",
-        "title": "Remove Comments"
+        "title": "Clean Comments"
       }
     ]
   },
