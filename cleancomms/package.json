@@ -19,6 +19,7 @@
     "onStartupFinished"
   ],
   "main": "./extension.js",
+  "icon": "images/cleancomms.png",
   "contributes": {
     "commands": [
       {
