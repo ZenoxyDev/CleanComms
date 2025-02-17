@@ -4,7 +4,7 @@
 
 ## Features
 
-- Removes all single-line comments (`// comment`).
+- Removes all single-line comments (`// and #`).
 - Removes all multi-line comments (`/* comment */`).
 - Works on any currently open file in VS Code.
 - One-click operation triggered by a command.
