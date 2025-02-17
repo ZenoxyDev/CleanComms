@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. Clone the repository or download the `.vsix` package.
+1. Download the `.vsix` package.
 2. Open Visual Studio Code.
 3. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 4. Search for **CleanComms** or install it from the `.vsix` file.
