@@ -16,6 +16,7 @@
 3. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 4. Search for **CleanComms** or install it from the `.vsix` file.
 5. Reload or restart VS Code.
+6. You can see the `"Clean Comments"` button in the Side Bar.
 
 ## Usage
 
